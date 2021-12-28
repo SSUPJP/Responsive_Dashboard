@@ -447,7 +447,7 @@ body {
     grid-template-columns: repeat(1, 1fr);
   }
   .recentOrders {
-    overflow-x: visible;
+    overflow-x: scroll;
   }
   .status.inprogress {
     white-space: nowrap;
