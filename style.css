@@ -478,7 +478,7 @@ body {
   }
   .main.active .toggle {
     position: relative;
-    right: 0;
+    right: 20;
     left: initial;
     color: var(--white);
   }
