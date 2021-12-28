@@ -477,7 +477,7 @@ body {
     z-index: 10001;
   }
   .main.active .toggle {
-    position: fixed;
+    position: relative;
     right: 0;
     left: initial;
     color: var(--white);
